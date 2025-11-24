@@ -1,2 +1,2 @@
 print("- Hello there!")
-Print("- General Kenobi!")
+print("- General Kenobi!")
